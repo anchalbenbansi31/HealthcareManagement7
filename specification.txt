@@ -1,16 +1,16 @@
 HEALTHCARE MANAGEMENT SYSTEM
 
-VERSION 1.1 – UPDATED SPECIFICATION
+VERSION 2.0 – ENHANCED SPECIFICATION
 
-1. Patients can register and log in to the system.
-2. Patients can update their personal details.
-3. Receptionists can register new patients.
-4. Administrators can manage doctor details.
-5. Patients can book appointments with available doctors.
-6. Add appointment search by doctor, department, and date.
-7. Add appointment cancellation and rescheduling.
-8. Add doctor availability status.
-9. Add patient medical history viewing.
-10. Add prescription management for doctors.
-11. Add appointment confirmation and reminder notifications.
-12. Improve patient record search and error handling.
+1. Patients can register, log in, and manage personal details.
+2. Administrators can manage doctor and patient records.
+3. Patients can book, cancel, and reschedule appointments.
+4. Doctors can manage prescriptions and patient medical records.
+5. Add online appointment and hospital bill payments.
+6. Add laboratory test booking and report management.
+7. Add role-based access for patients, doctors, receptionists, and administrators.
+8. Add electronic medical records with improved access control.
+9. Add an administrator dashboard with hospital statistics.
+10. Add automated appointment and payment notifications.
+11. Generate advanced reports for appointments, billing, and laboratory tests.
+12. Improve data security, backup, and recovery mechanisms.
