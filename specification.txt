@@ -1,12 +1,16 @@
 HEALTHCARE MANAGEMENT SYSTEM
 
-VERSION 1.0 – INITIAL SPECIFICATION
+VERSION 1.1 – UPDATED SPECIFICATION
 
 1. Patients can register and log in to the system.
 2. Patients can update their personal details.
 3. Receptionists can register new patients.
-4. Administrators can add, update, and delete doctor details.
+4. Administrators can manage doctor details.
 5. Patients can book appointments with available doctors.
-6. Doctors can view their appointment schedules.
-7. Doctors can maintain basic patient medical records.
-8. The system can generate basic patient and appointment reports.
+6. Add appointment search by doctor, department, and date.
+7. Add appointment cancellation and rescheduling.
+8. Add doctor availability status.
+9. Add patient medical history viewing.
+10. Add prescription management for doctors.
+11. Add appointment confirmation and reminder notifications.
+12. Improve patient record search and error handling.
